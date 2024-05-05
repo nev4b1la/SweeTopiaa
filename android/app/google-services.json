@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415727369646",
+    "project_id": "travel-ta",
+    "storage_bucket": "travel-ta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415727369646:android:313cdad38eed3e9f065c3f",
+        "android_client_info": {
+          "package_name": "com.example.online_shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzrMEfT_rCgpQtVIGXewMLXVank5oce-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
