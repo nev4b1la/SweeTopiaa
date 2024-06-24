@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:online_shop/widgets/items.dart';
+import 'package:online_shop/models/items.dart';
 
 class popular extends StatelessWidget {
   popular({super.key});

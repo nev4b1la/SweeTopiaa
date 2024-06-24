@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:online_shop/pages/homePage.dart';
-import 'package:online_shop/pages/movieList.dart';
+import 'package:online_shop/pages/movie/movieList.dart';
 
 class Sidebar extends StatelessWidget {
   @override

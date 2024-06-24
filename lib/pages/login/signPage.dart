@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:online_shop/pages/forgotPage.dart';
+import 'package:online_shop/pages/login/forgotPage.dart';
 import 'package:online_shop/pages/introPage2.dart';
-import 'package:online_shop/pages/registerPage.dart';
+import 'package:online_shop/pages/login/registerPage.dart';
 
 class signPage extends StatefulWidget {
   const signPage({Key? key});

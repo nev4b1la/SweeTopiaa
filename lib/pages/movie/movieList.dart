@@ -1,6 +1,6 @@
 import 'package:google_fonts/google_fonts.dart';
 import 'package:online_shop/models/movie.dart';
-import 'package:online_shop/pages/movie_detail.dart';
+import 'package:online_shop/pages/movie/movie_detail.dart';
 import 'package:online_shop/service/http.dart';
 import 'package:flutter/material.dart';
 import 'package:online_shop/widgets/navibar.dart';

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:online_shop/pages/registerPage.dart';
-import 'package:online_shop/pages/signPage.dart';
+import 'package:online_shop/pages/login/registerPage.dart';
+import 'package:online_shop/pages/login/signPage.dart';
 
 class introPage2 extends StatelessWidget {
   const introPage2({super.key});
